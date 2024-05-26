@@ -1,0 +1,16 @@
+[
+	{
+		"dates": "August 2023 · Present",
+		"role": "Data Scientist - Engineer",
+		"company": "GATEWAY GE",
+		"description": "Implement automation and AI solutions to an International Telecomm Gateway.",
+		"logo": "/assets/images/experiences/fta.ico"
+	},
+	{
+		"dates": "March 2022 · Present",
+		"role": "Data Scientist - Researcher",
+		"company": "Energesis",
+		"description": "Research novel AI models, provide insightful solutions to critical engineering problems.",
+		"logo": "/assets/images/experiences/yoho.ico"
+	}
+]
