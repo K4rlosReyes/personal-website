@@ -2,13 +2,13 @@
 	{
 		"name": "Futurization",
 		"description": "Practical implementation of a novel tendency and projection calculator using fuzzy logic.",
-		"image": "/assets/images/projects/deflycompass.png",
+		"image": "/images/projects/deflycompass.png",
 		"url": "https://deflycompass.energesis.es"
 	},
 	{
 		"name": "Environmental variables forecasting",
 		"description": "Forecasting CO2 and Temperature using novel neural network architecture.",
-		"image": "/assets/images/projects/forecasting.jpg",
+		"image": "/images/projects/forecasting.jpg",
 		"url": "https://doi.org/10.3390/math11244872"
 	}
 ]
