@@ -4,6 +4,7 @@ import Projects from "../components/home/Projects.astro";
 import Separator from "../components/home/Separator.astro";
 import Writings from "../components/home/Writings.astro";
 import Layout from "../layouts/Main.astro";
+import Reviews from "../components/Reviews.jsx";
 ---
 
 <Layout title="Carlos Reyes">
@@ -73,4 +74,6 @@ import Layout from "../layouts/Main.astro";
   <Projects />
   <Separator text="Some of my writing" />
   <Writings />
+  <Separator text="Reviews" />
+  <Reviews client:load />
 </Layout>
